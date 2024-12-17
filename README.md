@@ -1,9 +1,10 @@
-Hi there 👋, I'm **N Sai Krishna**!
-
-Welcome to my GitHub profile! I'm an aspiring developer passionate about Artificial Intelligence, Machine Learning, and Web Development. I love creating impactful projects and exploring new technologies.
 
 
-🚀 My Projects
+# Hi there 👋, I'm **N Sai Krishna**!
+
+Welcome to my GitHub profile! I'm an aspiring developer passionate about **Artificial Intelligence**, **Machine Learning**, and **Web Development**. I love creating impactful projects and exploring new technologies.
+
+## 🚀 **My Projects**
 Here are some of my notable projects:
 
 - 🌍 **[India-Culture](https://github.com/nsvsaikrishna0312/india-culture):**  
