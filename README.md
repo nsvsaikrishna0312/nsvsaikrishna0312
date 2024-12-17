@@ -9,6 +9,12 @@ Here are some of my notable projects:
 
 - 🌍 **[India-Culture](https://github.com/nsvsaikrishna0312/india-culture):**  
    A Python-based full-stack application that explores Indian cultural management using the Django framework.
+  
+- 🛒 **[Tribal Treasures](https://github.com/nsvsaikrishna0312/tribaltreasure):**  
+   A platform the artisans t promote their products ,developed using springboot and react.
+  
+- 🤖 **[Real Estate Management System](https://github.com/nsvsaikrishna0312/realestate-mernstack):**  
+   A Mernstack application to promote the real estate.
 
 - 🤖 **[Visa Prediction](https://github.com/nsvsaikrishna0312/visa_prediction):**  
    Predict visa outcomes using machine learning models and data preprocessing techniques.
@@ -26,10 +32,10 @@ Here are some of my notable projects:
 
 ## 🛠 **Tech Stack**
 - **Languages**: Python, JavaScript, HTML/CSS  
-- **Frameworks**: Django, React, Flask  
-- **Tools**: Git, VS Code, Jupyter Notebook  
-- **Libraries**: Pandas, NumPy, Tkinter  
-- **Cloud**: AWS, Oracle Cloud  
+- **Frameworks**: Django, React ,Springboot
+- **Tools**: Git, VS Code, Pycharm
+- **Libraries**: Pandas, NumPy, Tkinter,sklearn  
+- **Cloud**: AWS  
 
 ---
 
@@ -49,10 +55,8 @@ Here are some of my notable projects:
 ---
 
 ## 🤝 **Let's Connect**
-- **LinkedIn**: [N Sai Krishna](#)  
+- **LinkedIn**: [N Sai Krishna](https://www.linkedin.com/in/nallajarla-sri-venkata-sai-krishna/)  
 - **GitHub**: [nsvsaikrishna0312](https://github.com/nsvsaikrishna0312)  
-- **Email**: saikrishna@example.com  
+- **Email**: 2200030730cseh@gmail.com 
 
----
 
-Let me know if you'd like any further refinements! 🚀
